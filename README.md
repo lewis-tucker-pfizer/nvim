@@ -39,3 +39,9 @@ https://github.com/kovidgoyal/kitty
 
 brew install font-jetbrainsmono-nerd-font
 
+```
+font_family      JetBrainsMono Nerd Font
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
+```
